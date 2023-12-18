@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: ADA Template Website
 description: HELLOOOOOOOOOOOOOO
-show_downloads: False
+show_downloads: True
 navigation:
   - title: An Evolutionary View on The Making of Good Films 🎬
-    url: \
+    url: /
   - title: Example
     url: example

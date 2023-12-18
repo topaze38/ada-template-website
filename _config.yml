@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: ADA Template Website
-description: HELLOOOOOOOOOOOOOO
+description: A template website for ADA
 show_downloads: True
 navigation:
-  - title: An Evolutionary View on The Making of Good Films 🎬
+  - title: Home
     url: /
   - title: Example
     url: example
